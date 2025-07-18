@@ -10,7 +10,7 @@ from config import *
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(token=BOT_TOKEN)
+bot = Bot(token=7683635500:AAFM56o7fZn-YDTywWH52B4xRMvjR173iMg)
 dp = Dispatcher(bot)
 
 client = TelegramClient('anon', API_ID, API_HASH)
